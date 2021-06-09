@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.exe
+C:\Users\ACER\source\repos\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.deps.json
+C:\Users\ACER\source\repos\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.runtimeconfig.json
+C:\Users\ACER\source\repos\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.dll
+C:\Users\ACER\source\repos\OnlineShopping\bin\Debug\netcoreapp3.1\OnlineShopping.pdb
+C:\Users\ACER\source\repos\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.AssemblyInfo.cs
+C:\Users\ACER\source\repos\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.dll
+C:\Users\ACER\source\repos\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.pdb
+C:\Users\ACER\source\repos\OnlineShopping\obj\Debug\netcoreapp3.1\OnlineShopping.genruntimeconfig.cache
